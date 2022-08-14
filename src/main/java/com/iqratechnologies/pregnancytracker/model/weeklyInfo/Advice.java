@@ -1,20 +1,22 @@
-package com.iqratechnologies.pregnancytracker.model.Impl;
+package com.iqratechnologies.pregnancytracker.model.weeklyInfo;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
-
 import javax.persistence.*;
 
-@RequiredArgsConstructor
+
+@AllArgsConstructor
 @NoArgsConstructor
 @Data
 @Entity
-public class MomInfoImpl {
+public class Advice {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(nullable = false, updatable = false)
     private Long id;
 
+    private String message;
 
 }
