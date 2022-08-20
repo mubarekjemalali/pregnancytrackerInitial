@@ -1,4 +1,5 @@
-package com.iqratechnologies.pregnancytracker.model.weeklyInfo;
+package com.iqratechnologies.pregnancytracker.model;
+
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -6,17 +7,21 @@ import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 
 import javax.persistence.*;
+import java.time.LocalDate;
 
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
 @Entity
-public class BabyInfo {
+public class WeekData {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(nullable = false, updatable = false)
     private Long id;
 
-    private String weight;
-    private String height;
+    private LocalDate conceiveDate;
+
+    @Column(nullable = false, unique = true)
+    private String weekNumber;
+
 }
