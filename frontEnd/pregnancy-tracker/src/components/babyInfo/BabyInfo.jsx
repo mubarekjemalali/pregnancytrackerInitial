@@ -1,24 +1,24 @@
 import React from "react";
 import { useContext } from "react";
-import WeeklyInfoContext from "../weeklyInfo/WeeklyInfo";
+import { WeeklyInfoContext } from "../../context/WeeklyInfoContext";
+import styled from "styled-components";
+import Container from "react-bootstrap/Container";
+
+import "./babyInfo.css";
 
 function BabyInfo() {
-  const weeklyInfo = useContext(WeeklyInfoContext);
+  const data = useContext(WeeklyInfoContext);
 
   return (
-    // <div>
-    //   {weeklyInfo && (
-    //     <div>
-    //       <p>Weight: {weeklyInfo.weight}</p>
-    //       <p>Height: {weeklyInfo.height}</p>
-    //       <p>General info: {weeklyInfo.generalInfo}</p>
-    //     </div>
-    //   )}
-    // </div>
-    <div>
-      <p>bay info</p>
-    </div>
+    <Container>
+      <p className="weight">Weight: {data?.babyInfo.weight} kg</p>
+      <p className="height">Height: {data?.babyInfo.height} m</p>
+      {/* <p>General info: {data?.babyInfo.generalInfo}</p> */}
+    </Container>
   );
 }
 
+// const Container = styled.div`
+//   color: blue;
+// `;
 export default BabyInfo;

@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 
 import javax.persistence.*;
+import java.util.List;
 
 @AllArgsConstructor
 @NoArgsConstructor
@@ -21,5 +22,9 @@ public class BabyInfo {
     private String weight;
     private String height;
     private String generalInfo;
+
+    @OneToMany
+    @JoinColumn(name = "id_babyInfo")
+    private List<BabyGeneralInfo> babyGeneralInfoList;
 
 }
