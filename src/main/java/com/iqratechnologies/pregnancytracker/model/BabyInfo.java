@@ -23,8 +23,6 @@ public class BabyInfo {
     private String height;
     private String generalInfo;
 
-    @OneToMany
-    @JoinColumn(name = "id_babyInfo")
-    private List<BabyGeneralInfo> babyGeneralInfoList;
+
 
 }
