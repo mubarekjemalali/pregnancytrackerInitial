@@ -1,6 +1,6 @@
 import React from "react";
 import { useContext } from "react";
-import { WeeklyInfoContext } from "../weeklyInfo/WeeklyInfo";
+import { WeeklyInfoContext } from "../../context/WeeklyInfoContext";
 
 function Exercise() {
   const data = useContext(WeeklyInfoContext);
