@@ -1,0 +1,171 @@
+
+
+
+
+
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 1);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 2);
+0```
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 3);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 4);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 5);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 6);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 7);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 8);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 9);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 10);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 11);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 12);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 13);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 14);
+INSERT INTO exercise_info ( brief_info, detail_info, week_number) VALUES ('Your baby is just conceived, you can continue as you exercise before. If you are new to exercise try easy activities. ',
+                                                                          'exercise is the most important thing during pregnancy, get ready to be active.', 15);
+
+
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby has yet to be conceived','0','1','0');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby has yet to be conceived','0','2','0');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby has yet to be conceived','0','2','0');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a vanilla bean seed','0','3','0');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a poppy seed.','0','4','0');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as an orange seed.','0','5','0');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a sweet pea.','0.2','6','0.25');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a blueberry.','0.25','7','0.25');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a raspberry.','0.5','8','0.5');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a green olive.','1','9','1');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a prune.','1.25','10','1.5');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a large strawberry.','1.5','11','0.25');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a lime.','2','12','2.25');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a lemon.','3','13','1');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a navel orange.','3.5','14','2');
+INSERT INTO baby_info ( general_info, height, week_number, weight) VALUES ('Your baby is as big as a pear.','4','15','2.5');
+
+
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 1);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 2);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 3);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 4);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 5);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 6);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 7);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 8);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 9);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 10);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 11);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 12);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ' ,13);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 14);
+INSERT INTO feelings_info ( brief_info, detail_info, week_number) VALUES ('this week as your baby is getting bigger, you will gain some weight. ',
+                                                                          'But keep in mind that''s an average, which means that it''s perfectly fine to gain half a pound one week and a-pound-and-a-half the next, as long as you''re netting about 4 pounds a month. ', 15);
+
+
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 1);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 2);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 3);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 4);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 5);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 6);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 7);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 8);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 9);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 10);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 11);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 12);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 13);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 14);
+INSERT INTO nutrition_info ( brief_info, detail_info, week_number) VALUES ('this week, it is important to eat a lot of protein ',
+                                                                           'lean meats – beef, lamb, veal, kangaroo.', 15);
+
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('1', 1, 1, 1);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('2', 2, 2, 2);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('3', 3, 3, 3);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('4', 4, 4, 4);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('5', 5, 5, 5);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('6', 6, 6, 6);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('7', 7, 7, 7);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('8', 8, 8, 8);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('9', 9, 9, 9);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('10', 10, 10, 10);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('11', 11, 11, 11);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('12', 12, 12, 12);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('13', 13, 13, 13);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('14', 14, 14, 14);
+INSERT INTO mom_info ( week_number, id_exercise, id_feelings, id_nutrition) VALUES ('15', 15, 15, 15);
+
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 1);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 2);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 3);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 4);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 5);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 6);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 7);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 8);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 9);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 10);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 11);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 12);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 13);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 14);
+INSERT INTO weekly_advice ( message, week_number) VALUES ('True or false: A fetal heart rate of fewer than 140 beats per minute means you''re having a boy, while a heart rate of more than 140 beats per minute means you''re having a girl. It''s a notion that''s been making the obstetrical rounds forever.', 15);
+
+
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('1', 1, 1, 1);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('2', 2, 2, 2);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('3', 3, 3, 3);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('4', 4, 4, 4);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('5', 5, 5, 5);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('6', 6, 6, 6);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('7', 7, 7, 7);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('8', 8, 8, 8);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('9', 9, 9, 9);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('10', 10, 10, 10);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('11', 11, 11, 11);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('12', 12, 12, 12);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('13', 13, 13, 13);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('14', 14, 14, 14);
+INSERT INTO weekly_info ( week_number, id_baby_info, id_mom_info, id_advice) VALUES ('15', 15, 15, 15);
+
+
+
+

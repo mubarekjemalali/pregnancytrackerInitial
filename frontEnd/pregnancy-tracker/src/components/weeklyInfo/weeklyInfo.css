@@ -1,0 +1,123 @@
+.weeklyInfoContainer {
+  background-color: #e6f8ff;
+  margin: 20px 20%;
+}
+
+.hr {
+  color: #004b5e;
+  width: 80%;
+  margin: auto;
+  height: 2px;
+  margin-bottom: 15px;
+}
+
+.weekNumber {
+  color: #004b5e;
+  font-family: "Amatic SC", cursive;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.babyInfo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.babyComparision {
+  /* border: 1px solid #004b5e; */
+  margin: 10px;
+  /* width: 60%; */
+}
+
+.babyComparision p {
+  margin: 10px;
+  color: #004b5e;
+  font-family: "Darker Grotesque", sans-serif;
+  font-size: 2rem;
+}
+.babyComparision img {
+  background-color: #ccdde3;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.weeklyBabyInfo {
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  /* background-color: #ccdde3; */
+  /* height: 120px;
+  width: 120px; */
+  /* border-radius: 50%; */
+
+  margin: 10px;
+}
+
+.momInfo {
+  margin-top: 100px;
+}
+
+.carousel-indicators li {
+  color: #004b5e;
+}
+
+.weeks {
+  height: 200px;
+  background-color: #ccdde3;
+
+  margin: 20px 10%;
+  display: flex;
+  overflow: scroll;
+  overflow-y: hidden;
+  /* overflow-x: hidden; */
+}
+
+.week {
+  height: 190px;
+  width: 130px;
+  background-color: #f1f4f5;
+  margin: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.week img {
+  width: 120px;
+  height: 110px;
+  margin: 5px;
+}
+
+h2 {
+  color: #004b5e;
+  font-family: "Amatic SC", cursive;
+  font-size: 2.5rem;
+  margin-top: 50px;
+  margin-left: 10%;
+  width: 80%;
+  text-align: left;
+}
+
+.timesterContainer {
+  height: 400px;
+  width: 60%;
+  margin: 20px 20%;
+  display: flex;
+  border-top: 1px solid #004b5e;
+  border-bottom: 1px solid #004b5e;
+}
+
+.trimester {
+  width: 320px;
+  border: none;
+}
+
+.trimesterImage {
+  width: 250px;
+  margin: auto;
+}
+
+.cardTitle {
+  color: #004b5e;
+  font-family: "Darker Grotesque", sans-serif;
+  font-size: 2rem;
+}
